@@ -1,10 +1,10 @@
 ﻿#1
-#n=int(input("1 kuni 9:"))
-#for i in range(n):
-#    print(" ~~~~~")
-#    print("/_____\ ")
-#    print("| []  |")
-#    print(" -----")
+n=int(input("1 kuni 9:"))
+for i in range(n):
+    print(" ~~~~~")
+    print("/_____\ ")
+    print("| []  |")
+    print(" -----")
 #3﻿
 õpilased = 30 
 maksimaalne = 5
