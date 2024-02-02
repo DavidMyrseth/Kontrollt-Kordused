@@ -32,7 +32,7 @@ for i in range(õpilased):
     print(hinned)
     if hinned > maksimaalne:
         maksimalne = hinned
-    if hinned < minimaalne:
+    elif hinned < minimaalne:
         minimaalne = hinned
 print("Maksimaalne hind on:", maksimaalne)
 print("Minimaalne hind on:", minimaalne)
